@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+.home{
+    height: 100%;
+    background-image: url("./img/photo-1627213742863-46b836499634.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headings {
+    width: 100%;
+    position: absolute;
+    bottom: 8px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.TOUR-DATES{
+    background-color: black;
+}
